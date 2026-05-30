@@ -1,0 +1,29 @@
+# Number Guessing Game
+
+## Overview
+
+A simple Python game where the player must guess a randomly generated number.
+
+---
+
+## Features
+
+- Random Number Generation
+- User Input
+- Hint System
+- Attempt Counter
+- Win Detection
+
+---
+
+## Technologies Used
+
+- Python
+- random module
+
+---
+
+## How to Run
+
+```bash
+python main.py
